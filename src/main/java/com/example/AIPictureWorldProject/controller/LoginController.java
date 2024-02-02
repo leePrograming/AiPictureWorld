@@ -60,5 +60,31 @@ public class LoginController {
         return message;
     }
 
+    @RequestMapping("/logInUser")
+    @ResponseBody
+    public String logInUser(UserDto userDto){
+
+        String message = "";
+
+        if(!userService.checkLoginIdDuplicate(userDto.getId())) {
+            try {
+                userService.signUpUser(userDto);
+                logger.info("success");
+                message = "success";
+            }catch (Exception e){
+                logger.warn("아이디를 등록하는데 문제가 발생하였습니다.");
+                message = "errorCode(1)";
+            }
+        }
+        else{
+            logger.info("아이디가 중복되었습니다.");
+            message = "errorCode(2)";
+        }
+
+
+
+        return message;
+    }
+
 
 }
