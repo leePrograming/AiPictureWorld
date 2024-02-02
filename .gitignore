@@ -1,2 +1,3 @@
-
-build/classes/java/main/com/example/AIPictureWorldProject/controller/BoardController.class
+.gradle
+/build
+local.properties
