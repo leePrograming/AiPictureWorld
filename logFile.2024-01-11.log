@@ -1,0 +1,11 @@
+2024-01-11 00:29:32 [http-nio-8080-exec-2] INFO  c.e.A.controller.BoardController - boardNo :1
+2024-01-11 00:29:32 [http-nio-8080-exec-2] INFO  c.e.A.controller.BoardController - getFileId : 1
+2024-01-11 00:29:32 [http-nio-8080-exec-2] INFO  c.e.A.controller.BoardController - 1 : 1
+2024-01-11 00:29:32 [http-nio-8080-exec-2] INFO  c.e.A.controller.BoardController - board.boardNo : 1
+2024-01-11 00:29:32 [http-nio-8080-exec-2] INFO  c.e.A.controller.BoardController - board.boardNm : 옷걸이
+2024-01-11 00:29:32 [http-nio-8080-exec-2] INFO  c.e.A.controller.BoardController - tagNm : closer
+2024-01-11 00:29:32 [http-nio-8080-exec-2] INFO  c.e.A.controller.BoardController - tagArr[i] : closer
+2024-01-11 00:29:32 [http-nio-8080-exec-2] INFO  c.e.A.controller.BoardController - mergedList size : 0
+2024-01-11 00:46:45 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 00:46:45 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2024-01-11 00:46:45 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.

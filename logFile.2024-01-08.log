@@ -1,0 +1,36 @@
+2024-01-08 19:53:21 [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.example.demo.controller.BoardControllerTest]: BoardControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-01-08 19:53:21 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.controller.BoardControllerTest
+2024-01-08 19:53:21 [Test worker] INFO  c.e.d.controller.BoardControllerTest - Starting BoardControllerTest using Java 17.0.5 with PID 35368 (started by abc12 in C:\Users\abc12\IdeaProjects\demo)
+2024-01-08 19:53:21 [Test worker] INFO  c.e.d.controller.BoardControllerTest - No active profile set, falling back to 1 default profile: "default"
+2024-01-08 19:53:23 [Test worker] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2024-01-08 19:53:23 [Test worker] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2024-01-08 19:53:23 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2024-01-08 19:53:23 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2024-01-08 19:53:23 [Test worker] INFO  c.e.d.controller.BoardControllerTest - Started BoardControllerTest in 1.818 seconds (process running for 3.095)
+2024-01-08 19:55:44 [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.example.demo.controller.BoardControllerTest]: BoardControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-01-08 19:55:44 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.controller.BoardControllerTest
+2024-01-08 19:55:45 [Test worker] INFO  c.e.d.controller.BoardControllerTest - Starting BoardControllerTest using Java 17.0.5 with PID 2256 (started by abc12 in C:\Users\abc12\IdeaProjects\demo)
+2024-01-08 19:55:45 [Test worker] INFO  c.e.d.controller.BoardControllerTest - No active profile set, falling back to 1 default profile: "default"
+2024-01-08 19:55:46 [Test worker] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2024-01-08 19:55:46 [Test worker] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2024-01-08 19:55:46 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2024-01-08 19:55:46 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2024-01-08 19:55:46 [Test worker] INFO  c.e.d.controller.BoardControllerTest - Started BoardControllerTest in 1.929 seconds (process running for 3.131)
+2024-01-08 19:57:05 [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.example.demo.controller.BoardControllerTest]: BoardControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-01-08 19:57:05 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.controller.BoardControllerTest
+2024-01-08 19:57:05 [Test worker] INFO  c.e.d.controller.BoardControllerTest - Starting BoardControllerTest using Java 17.0.5 with PID 2012 (started by abc12 in C:\Users\abc12\IdeaProjects\demo)
+2024-01-08 19:57:05 [Test worker] INFO  c.e.d.controller.BoardControllerTest - No active profile set, falling back to 1 default profile: "default"
+2024-01-08 19:57:07 [Test worker] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2024-01-08 19:57:07 [Test worker] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2024-01-08 19:57:07 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2024-01-08 19:57:07 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2024-01-08 19:57:07 [Test worker] INFO  c.e.d.controller.BoardControllerTest - Started BoardControllerTest in 1.911 seconds (process running for 3.124)
+2024-01-08 19:58:52 [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.example.demo.controller.BoardControllerTest]: BoardControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-01-08 19:58:53 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.controller.BoardControllerTest
+2024-01-08 19:58:53 [Test worker] INFO  c.e.d.controller.BoardControllerTest - Starting BoardControllerTest using Java 17.0.5 with PID 32044 (started by abc12 in C:\Users\abc12\IdeaProjects\demo)
+2024-01-08 19:58:53 [Test worker] INFO  c.e.d.controller.BoardControllerTest - No active profile set, falling back to 1 default profile: "default"
+2024-01-08 19:58:54 [Test worker] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2024-01-08 19:58:55 [Test worker] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2024-01-08 19:58:55 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2024-01-08 19:58:55 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2024-01-08 19:58:55 [Test worker] INFO  c.e.d.controller.BoardControllerTest - Started BoardControllerTest in 1.921 seconds (process running for 3.125)

@@ -1,0 +1,20 @@
+
+.btn-round {
+    border: 0px black solid;
+    cursor:pointer; cursor:hand;
+    /*background-color: #3b8c9a;*/
+    background-color: #3399CC;
+    color: black;
+    padding: 5px;
+    border-radius: 2em;
+    text-align: center;
+}
+
+.btn> a:hover{
+    color:white;
+}
+
+.btn > a{
+    color:black;
+    text-align: center; !important;
+}
